@@ -1,6 +1,10 @@
 Debug/
 Release/
 
+*.suo
+*.db
+*.ipch
+
 # Prerequisites
 *.d
 
